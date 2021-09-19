@@ -5,6 +5,10 @@
 
 ## Moderation
 
+---
+
+* [Verification Levels](verification-levels.md)
+
 ## Data
 
 * [Discord Links](data/official-discord-links/README.md)

@@ -33,7 +33,7 @@ If you have the _manage emojis_ / _administrator_ permission; or are the server 
 
 **\#1:** Select the dropdown, right next to the Server's Name.
 
-![](.gitbook/assets/image%20%2811%29.png)
+![](.gitbook/assets/image%20%2812%29.png)
 
 **\#2:** Go to the "Server Settings".
 
@@ -41,11 +41,11 @@ If you have the _manage emojis_ / _administrator_ permission; or are the server 
 
 **\#3:** Select the "Emoji" tab.
 
-![](.gitbook/assets/image%20%289%29.png)
+![](.gitbook/assets/image%20%2810%29.png)
 
 **\#4:** Click the "Upload Emoji" button to upload your emoji.
 
-![](.gitbook/assets/image%20%2810%29.png)
+![](.gitbook/assets/image%20%2811%29.png)
 
 ### Editing/Deleting Custom Emojis
 
@@ -59,7 +59,7 @@ This requires the same permissions as creating a emoji. You must have the _manag
 
 **\#2:** Go to the "Server Settings"
 
-![](.gitbook/assets/image%20%2813%29.png)
+![](.gitbook/assets/image%20%2814%29.png)
 
 **\#3:** Click the "Emoji" tab.
 
