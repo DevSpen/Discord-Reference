@@ -5,8 +5,6 @@
 
 ## Moderation
 
-* [Untitled](moderation/untitled.md)
-
 ## Data
 
 * [Official Discord Links](data/official-discord-links.md)
@@ -16,4 +14,8 @@
 * [WatchAnimeAtTheOffice.com](history/watchanimeattheoffice.com.md)
 
 ## Guides
+
+---
+
+* [Custom Emojis](untitled.md)
 
