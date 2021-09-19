@@ -33,19 +33,19 @@ If you have the _manage emojis_ / _administrator_ permission; or are the server 
 
 **\#1:** Select the dropdown, right next to the Server's Name.
 
-![](.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%288%29%20%281%29.png)
 
 **\#2:** Go to the "Server Settings".
 
-![](.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
 **\#3:** Select the "Emoji" tab.
 
-![](.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%286%29%20%281%29.png)
 
 **\#4:** Click the "Upload Emoji" button to upload your emoji.
 
-![](.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 
 ### Editing/Deleting Custom Emojis
 
@@ -55,20 +55,20 @@ This requires the same permissions as creating a emoji. You must have the _manag
 
 **\#1:** Select the dropdown, right next to the Server's Name.
 
-![](.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
 **\#2:** Go to the "Server Settings"
 
-![](.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image%20%287%29%20%282%29.png)
 
 **\#3:** Click the "Emoji" tab.
 
-![](.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 **\#4:** Find the emoji you want to edit/delete, and make your modifications.
 
 * **Deleting**: Click the❌ button, which is to the right when you hover over the target emoji.
 * **Editing**: You can edit a emojis name by hovering over the target emoji, then clicking the text box under the "Alias" section. Once you finish typing the new emoji name, you can save it by clicking the _enter_ key, or clicking elsewhere on your screen.
 
-![](.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 

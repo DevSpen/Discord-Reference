@@ -5,9 +5,7 @@
 
 ## Moderation
 
----
-
-* [Verification Levels](verification-levels.md)
+* [Verification Levels](moderation/verification-levels.md)
 
 ## Data
 
@@ -32,7 +30,5 @@
 
 ## Guides
 
----
-
-* [Custom Emojis](untitled.md)
+* [Custom Emojis](guides/untitled.md)
 
